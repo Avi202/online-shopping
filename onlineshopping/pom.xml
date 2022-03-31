@@ -9,7 +9,7 @@
 	<url>http://maven.apache.org</url>
 	<properties>
 		<javaee.version>8.0.1</javaee.version>
-		<spring.version>5.1.8.RELEASE</spring.version>
+		<spring.version>5.3.18</spring.version>
 	</properties>
 	<dependencies>
 		<!-- Linking Backend Project -->
